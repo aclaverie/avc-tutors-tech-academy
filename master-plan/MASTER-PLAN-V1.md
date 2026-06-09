@@ -1495,7 +1495,391 @@ Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 05 - Java Foundations for the AI Era
 
-<!-- Paste Section 05 content here -->
+# Section 5 – Java Foundations for the AI Era
+
+## Status
+
+Approved
+
+---
+
+## 5.1 Purpose
+
+Java Foundations for the AI Era is the flagship entry-level technical program of AVC Tutors Tech Academy.
+
+The program introduces learners to software development, programming logic, problem solving, and modern AI-assisted development practices while establishing the foundation for progression through the Academy's Software Development & AI Engineering Pathway.
+
+This course serves as the primary gateway into the Academy's technical education ecosystem.
+
+---
+
+## 5.2 Program Positioning
+
+### Program Name
+
+Java Foundations for the AI Era
+
+---
+
+### Program Category
+
+Software Development & AI Engineering
+
+---
+
+### Pathway Level
+
+Level 1
+
+---
+
+### Delivery Model
+
+Instructor-Led
+
+---
+
+### Target Audience
+
+Beginners and aspiring technology professionals.
+
+---
+
+## 5.3 Strategic Purpose
+
+The program is designed to:
+
+- Build programming confidence.
+- Introduce software development concepts.
+- Develop logical thinking.
+- Teach structured problem solving.
+- Introduce AI-assisted development practices.
+- Prepare learners for higher-level technical pathways.
+
+---
+
+## 5.4 Ideal Student Profiles
+
+### Secondary School Students
+
+Preparing for future technology opportunities.
+
+---
+
+### University Students
+
+Seeking practical programming experience.
+
+---
+
+### Working Professionals
+
+Exploring technology skills and career advancement.
+
+---
+
+### Career Changers
+
+Seeking entry into technology-related careers.
+
+---
+
+### Entrepreneurs
+
+Seeking technical understanding and digital capability.
+
+---
+
+## 5.5 Learning Outcomes
+
+Upon successful completion, students should be able to:
+
+### Understand Programming Fundamentals
+
+---
+
+### Create Java Applications
+
+---
+
+### Use Variables, Conditions, and Loops
+
+---
+
+### Build Modular Programs
+
+---
+
+### Apply Object-Oriented Concepts
+
+---
+
+### Debug and Troubleshoot Code
+
+---
+
+### Use AI Tools Responsibly During Development
+
+---
+
+### Build Practical Projects
+
+---
+
+### Continue Into Advanced Academy Programs
+
+---
+
+## 5.6 Curriculum Structure
+
+### Module 1
+
+Introduction to Programming & Java
+
+---
+
+### Module 2
+
+Variables, Data Types & Operators
+
+---
+
+### Module 3
+
+Conditional Logic & Decision Making
+
+---
+
+### Module 4
+
+Loops & Repetition
+
+---
+
+### Module 5
+
+Methods & Modular Programming
+
+---
+
+### Module 6
+
+Arrays & Collections Fundamentals
+
+---
+
+### Module 7
+
+Introduction to Object-Oriented Programming
+
+---
+
+### Module 8
+
+Classes & Objects
+
+---
+
+### Module 9
+
+Debugging & Problem Solving
+
+---
+
+### Module 10
+
+AI-Assisted Development Practices
+
+---
+
+### Module 11
+
+Practical Project Development
+
+---
+
+### Module 12
+
+Final Project & Presentation
+
+---
+
+## 5.7 Delivery Standards
+
+The program should emphasize:
+
+### Live Instruction
+
+---
+
+### Hands-On Coding
+
+---
+
+### Guided Exercises
+
+---
+
+### Project-Based Learning
+
+---
+
+### AI-Aware Development Practices
+
+---
+
+### Student Interaction
+
+---
+
+## 5.8 Technology Stack
+
+Approved technologies include:
+
+### Java
+
+Primary programming language.
+
+---
+
+### jDoodle
+
+Approved browser-based development environment.
+
+---
+
+### AI Tools
+
+Approved AI assistance tools as determined by Academy policy.
+
+---
+
+Students should not require advanced local setup to begin learning.
+
+---
+
+## 5.9 Assessment Framework
+
+Assessment may include:
+
+### Participation
+
+---
+
+### Practical Exercises
+
+---
+
+### Coding Challenges
+
+---
+
+### Mini Projects
+
+---
+
+### Final Project
+
+---
+
+Assessment should focus on demonstrated competency.
+
+---
+
+## 5.10 Certification
+
+Students who successfully complete program requirements receive:
+
+### Certificate of Completion
+
+Issued by AVC Tutors Tech Academy.
+
+---
+
+The certificate serves as evidence of successful completion of Level 1 within the Software Development & AI Engineering Pathway.
+
+---
+
+## 5.11 Progression Pathway
+
+Successful students should be encouraged to continue into:
+
+### Level 2
+
+Java + APIs + Automation
+
+↓
+
+### Level 3
+
+Java Backend Systems & AI Integrations
+
+↓
+
+### Level 4
+
+AI Agents, Automation & Enterprise Systems
+
+---
+
+This progression model supports long-term learner development.
+
+---
+
+## 5.12 Career Relevance
+
+The program supports foundational preparation for:
+
+- Junior software development pathways.
+- Technical support roles.
+- Automation-related opportunities.
+- Further software engineering education.
+- Technology entrepreneurship.
+- AI-enabled development environments.
+
+---
+
+## 5.13 Strategic Importance
+
+Java Foundations for the AI Era serves as:
+
+### The Academy's Flagship Technical Program
+
+---
+
+### Primary Student Acquisition Program
+
+---
+
+### Foundation for Advanced Technical Learning
+
+---
+
+### Gateway Into the Academy Ecosystem
+
+---
+
+Its success is critical to the long-term growth and reputation of AVC Tutors Tech Academy.
+
+---
+
+## 5.14 Long-Term Objective
+
+The program should become a recognized entry point into software development and AI-enabled technology careers throughout The Bahamas, Trinidad & Tobago, and the wider Caribbean.
+
+---
+
+## Section Approval
+
+Section Number: 05
+
+Section Name: Java Foundations for the AI Era
+
+Status: Approved
+
+Version: 1.0
+
+Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 06 - Student Journey, Enrollment and Customer Experience
 
