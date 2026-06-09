@@ -286,7 +286,380 @@ Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 02 - Business Model and Revenue Strategy
 
-<!-- Paste Section 02 content here -->
+# Section 2 – Business Model & Revenue Strategy
+
+## Status
+
+Approved
+
+---
+
+## 2.1 Purpose
+
+This section defines how AVC Tutors Tech Academy generates revenue, achieves financial sustainability, and supports long-term growth while maintaining its mission of providing accessible and practical technology education.
+
+The business model is designed to balance educational impact with commercial sustainability.
+
+---
+
+## 2.2 Business Model Overview
+
+AVC Tutors Tech Academy operates as a technology education and workforce development organization.
+
+The Academy generates revenue through educational programs, workforce development services, partnerships, and future digital learning offerings.
+
+The model is designed to create multiple revenue streams while maintaining alignment with the Academy's mission and values.
+
+---
+
+## 2.3 Core Business Functions
+
+The Academy performs five primary functions:
+
+### Education
+
+Delivering technology and AI-related learning programs.
+
+---
+
+### Workforce Development
+
+Supporting professional and organizational skills development.
+
+---
+
+### Community Impact
+
+Expanding access to technology education.
+
+---
+
+### Corporate Training
+
+Providing customized workforce training solutions.
+
+---
+
+### Technology Enablement
+
+Using technology and AI to improve learning experiences and operational efficiency.
+
+---
+
+## 2.4 Revenue Strategy
+
+The Academy will pursue a diversified revenue model consisting of multiple complementary income streams.
+
+The objective is to reduce dependence on any single program or customer segment.
+
+---
+
+## 2.5 Revenue Stream 1 – Student Tuition
+
+Student tuition represents the primary revenue source during the Academy's initial growth phase.
+
+Examples include:
+
+- Java Foundations for the AI Era
+- Python Foundations for AI
+- AI Productivity Programs
+- Future technical programs
+
+Revenue Characteristics:
+
+- Predictable
+- Scalable
+- Directly linked to enrollment
+
+---
+
+## 2.6 Revenue Stream 2 – Advanced Program Progression
+
+Students progressing through structured learning pathways create recurring educational revenue.
+
+Example:
+
+Level 1
+
+↓
+
+Level 2
+
+↓
+
+Level 3
+
+↓
+
+Level 4
+
+This model increases student lifetime value while supporting long-term learner development.
+
+---
+
+## 2.7 Revenue Stream 3 – Corporate Training
+
+Organizations require workforce development in technology, AI, automation, and digital transformation.
+
+The Academy will provide:
+
+- AI Literacy Programs
+- Digital Transformation Workshops
+- Technology Upskilling
+- Leadership Programs
+- Customized Training
+
+Corporate training is expected to become a significant long-term revenue source.
+
+---
+
+## 2.8 Revenue Stream 4 – School Partnerships
+
+Educational institutions represent recurring opportunities for:
+
+- Coding clubs
+- AI clubs
+- Holiday programs
+- Teacher development
+- Student enrichment programs
+
+These relationships may create predictable annual revenue streams.
+
+---
+
+## 2.9 Revenue Stream 5 – Online Learning
+
+Future digital learning offerings may include:
+
+- Subscription-based access
+- Self-paced courses
+- Premium content
+- Resource libraries
+- Certification programs
+
+This creates scalable recurring revenue.
+
+---
+
+## 2.10 Revenue Stream 6 – Consulting & Advisory Services
+
+The Academy may leverage its expertise to provide:
+
+- Technology advisory services
+- AI readiness assessments
+- Workforce development consulting
+- Educational technology guidance
+
+These services complement educational offerings and strengthen market presence.
+
+---
+
+## 2.11 Target Customer Segments
+
+The Academy serves multiple customer groups.
+
+### Secondary School Students
+
+Seeking technology skills and career preparation.
+
+---
+
+### University Students
+
+Seeking practical experience and employable skills.
+
+---
+
+### Working Professionals
+
+Seeking upskilling and career advancement.
+
+---
+
+### Career Changers
+
+Seeking entry into technology-related fields.
+
+---
+
+### Entrepreneurs
+
+Seeking technology and AI capabilities.
+
+---
+
+### Businesses
+
+Seeking workforce development.
+
+---
+
+### Educational Institutions
+
+Seeking student and teacher programs.
+
+---
+
+### Government Agencies
+
+Seeking workforce modernization and digital skills initiatives.
+
+---
+
+## 2.12 Pricing Philosophy
+
+Pricing should balance:
+
+### Accessibility
+
+Programs remain attainable.
+
+---
+
+### Sustainability
+
+Programs contribute positively to Academy growth.
+
+---
+
+### Value
+
+Pricing reflects practical outcomes and market relevance.
+
+---
+
+### Scalability
+
+Programs can support future expansion.
+
+---
+
+## 2.13 Growth Model
+
+The Academy will grow through:
+
+### Program Expansion
+
+Additional courses and pathways.
+
+---
+
+### Market Expansion
+
+Additional geographic regions.
+
+---
+
+### Corporate Expansion
+
+Workforce development services.
+
+---
+
+### Platform Expansion
+
+Digital learning capabilities.
+
+---
+
+### Partnership Expansion
+
+Schools, businesses, and institutions.
+
+---
+
+## 2.14 Competitive Positioning
+
+The Academy differentiates itself through:
+
+### Practical Learning
+
+Hands-on, project-based education.
+
+---
+
+### AI Integration
+
+Preparing learners for the AI era.
+
+---
+
+### Workforce Focus
+
+Aligning education with career outcomes.
+
+---
+
+### Caribbean Context
+
+Regional relevance and accessibility.
+
+---
+
+### Flexible Delivery
+
+Serving students, professionals, and organizations.
+
+---
+
+## 2.15 Long-Term Financial Objective
+
+Build a diversified, sustainable educational enterprise capable of:
+
+- Supporting growth.
+- Funding innovation.
+- Expanding opportunities.
+- Delivering long-term impact.
+
+Financial sustainability is viewed as a means of increasing educational reach and effectiveness.
+
+---
+
+## 2.16 Strategic Business Objective
+
+The Academy's business model exists to create a sustainable cycle:
+
+Education
+
+↓
+
+Student Success
+
+↓
+
+Reputation
+
+↓
+
+Growth
+
+↓
+
+Revenue
+
+↓
+
+Reinvestment
+
+↓
+
+Expanded Opportunity
+
+This cycle should guide future business decisions.
+
+---
+
+## Section Approval
+
+Section Number: 02
+
+Section Name: Business Model & Revenue Strategy
+
+Status: Approved
+
+Version: 1.0
+
+Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 03 - Academy Structure and Governance
 
