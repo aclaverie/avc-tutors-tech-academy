@@ -1050,7 +1050,448 @@ Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 04 - Program Portfolio and Learning Pathways
 
-<!-- Paste Section 04 content here -->
+# Section 4 – Program Portfolio & Learning Pathways
+
+## Status
+
+Approved
+
+---
+
+## 4.1 Purpose
+
+This section defines the Academy's educational portfolio and establishes the structured learning pathways through which learners progress from foundational knowledge to advanced technical and professional capabilities.
+
+The objective is to provide clear educational roadmaps that support student development, workforce readiness, and long-term career growth.
+
+---
+
+## 4.2 Educational Philosophy
+
+The Academy's programs should be:
+
+### Practical
+
+Focused on real-world application.
+
+---
+
+### Progressive
+
+Building knowledge in logical stages.
+
+---
+
+### Career-Oriented
+
+Aligned with workforce opportunities.
+
+---
+
+### AI-Integrated
+
+Preparing learners for the AI era.
+
+---
+
+### Accessible
+
+Designed to support learners at different starting points.
+
+---
+
+## 4.3 Program Portfolio Structure
+
+The Academy's offerings are organized into program families.
+
+### Software Development & AI Engineering
+
+---
+
+### Artificial Intelligence & Productivity
+
+---
+
+### Automation & Digital Transformation
+
+---
+
+### Cloud Computing
+
+---
+
+### Cybersecurity
+
+---
+
+### Data & Analytics
+
+---
+
+### Youth Technology Programs
+
+---
+
+### Corporate Training & Workforce Development
+
+---
+
+These program families may expand as the Academy evolves.
+
+---
+
+## 4.4 Flagship Learning Pathway
+
+### Software Development & AI Engineering Pathway
+
+This is the Academy's primary technical pathway.
+
+---
+
+### Level 1
+
+Java Foundations for the AI Era
+
+Purpose:
+
+Provide programming fundamentals and technology confidence.
+
+---
+
+### Level 2
+
+Java + APIs + Automation
+
+Purpose:
+
+Introduce integration, APIs, and automation concepts.
+
+---
+
+### Level 3
+
+Java Backend Systems & AI Integrations
+
+Purpose:
+
+Develop professional backend development capabilities.
+
+---
+
+### Level 4
+
+AI Agents, Automation & Enterprise Systems
+
+Purpose:
+
+Build advanced AI-enabled business and enterprise solutions.
+
+---
+
+This pathway serves as the Academy's flagship technical progression model.
+
+---
+
+## 4.5 Artificial Intelligence & Productivity Programs
+
+Purpose:
+
+Help learners and professionals improve productivity using modern AI tools.
+
+Potential offerings include:
+
+### AI Productivity for Professionals
+
+---
+
+### AI for Educators
+
+---
+
+### AI for Entrepreneurs
+
+---
+
+### AI for Managers & Leaders
+
+---
+
+### Responsible AI Usage
+
+---
+
+These programs support broad workforce development objectives.
+
+---
+
+## 4.6 Python & AI Pathway
+
+Purpose:
+
+Provide an alternative technical pathway centered on Python and AI development.
+
+Potential progression:
+
+### Python Foundations for AI
+
+↓
+
+### Python Automation & APIs
+
+↓
+
+### AI Application Development
+
+↓
+
+### Advanced AI Systems
+
+---
+
+This pathway may become a major growth area.
+
+---
+
+## 4.7 Cloud Computing Programs
+
+Purpose:
+
+Prepare learners for cloud-enabled environments.
+
+Potential offerings:
+
+### Cloud Fundamentals
+
+---
+
+### AWS Foundations
+
+---
+
+### Azure Foundations
+
+---
+
+### Cloud Operations
+
+---
+
+### Cloud Architecture
+
+---
+
+## 4.8 Cybersecurity Programs
+
+Purpose:
+
+Develop cybersecurity awareness and technical capability.
+
+Potential offerings:
+
+### Cybersecurity Fundamentals
+
+---
+
+### Security Operations
+
+---
+
+### Ethical Hacking Foundations
+
+---
+
+### Security Awareness
+
+---
+
+### Risk & Compliance
+
+---
+
+## 4.9 Data & Analytics Programs
+
+Purpose:
+
+Develop data literacy and analytical capability.
+
+Potential offerings:
+
+### SQL Fundamentals
+
+---
+
+### Data Analysis
+
+---
+
+### Business Intelligence
+
+---
+
+### Power BI
+
+---
+
+### Data Visualization
+
+---
+
+## 4.10 Youth Technology Programs
+
+Purpose:
+
+Introduce younger learners to technology and innovation.
+
+Potential offerings:
+
+### Coding Foundations
+
+---
+
+### Robotics
+
+---
+
+### AI Awareness
+
+---
+
+### Technology Camps
+
+---
+
+### Innovation Challenges
+
+---
+
+These programs support future talent development.
+
+---
+
+## 4.11 Corporate Training Programs
+
+Purpose:
+
+Support organizational workforce development.
+
+Potential offerings:
+
+### AI Readiness
+
+---
+
+### Technology Upskilling
+
+---
+
+### Automation Awareness
+
+---
+
+### Digital Transformation
+
+---
+
+### Leadership & Innovation
+
+---
+
+Corporate offerings are addressed further in the Corporate Training section of the Master Plan.
+
+---
+
+## 4.12 Program Development Standards
+
+All Academy programs should:
+
+### Have Clear Learning Outcomes
+
+---
+
+### Include Practical Activities
+
+---
+
+### Support Real-World Application
+
+---
+
+### Align With Industry Trends
+
+---
+
+### Incorporate Continuous Improvement
+
+---
+
+These standards promote consistency and quality.
+
+---
+
+## 4.13 Student Progression Philosophy
+
+Every program should provide a logical next step.
+
+Students should be encouraged to continue progressing through structured pathways rather than treating programs as isolated experiences.
+
+This increases:
+
+- Student success
+- Student retention
+- Workforce readiness
+- Long-term impact
+
+---
+
+## 4.14 Long-Term Portfolio Vision
+
+The Academy's long-term educational portfolio should support:
+
+### Individuals
+
+---
+
+### Professionals
+
+---
+
+### Entrepreneurs
+
+---
+
+### Organizations
+
+---
+
+### Schools
+
+---
+
+### Communities
+
+---
+
+through a diverse range of practical technology education offerings.
+
+---
+
+## 4.15 Strategic Objective
+
+The program portfolio exists to create a comprehensive technology education ecosystem that supports learners from initial exposure through advanced specialization while maintaining relevance to workforce needs and technological change.
+
+---
+
+## Section Approval
+
+Section Number: 04
+
+Section Name: Program Portfolio & Learning Pathways
+
+Status: Approved
+
+Version: 1.0
+
+Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 05 - Java Foundations for the AI Era
 
