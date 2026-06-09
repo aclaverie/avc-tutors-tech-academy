@@ -2880,7 +2880,495 @@ Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 08 - Marketing, Branding and Student Acquisition
 
-<!-- Paste Section 08 content here -->
+# Section 8 – Marketing, Branding & Student Acquisition Strategy
+
+## Status
+
+Approved
+
+---
+
+## 8.1 Purpose
+
+This section defines how AVC Tutors Tech Academy attracts, engages, converts, and retains students while building a recognizable and trusted brand throughout The Bahamas, Trinidad & Tobago, and the wider Caribbean.
+
+The objective is to establish a repeatable student acquisition system that supports sustainable growth.
+
+---
+
+## 8.2 Marketing Philosophy
+
+Marketing should focus on:
+
+### Outcomes
+
+Rather than features.
+
+---
+
+### Opportunity
+
+Rather than technology complexity.
+
+---
+
+### Transformation
+
+Rather than course content alone.
+
+---
+
+### Student Success
+
+Rather than promotional claims.
+
+---
+
+The Academy should market the future opportunities created by its programs.
+
+---
+
+## 8.3 Brand Positioning
+
+AVC Tutors Tech Academy is positioned as:
+
+### A Practical Technology Academy
+
+---
+
+### An AI-Era Workforce Development Organization
+
+---
+
+### A Career Acceleration Platform
+
+---
+
+### A Technology Opportunity Creator
+
+---
+
+The Academy differentiates itself through practical education, AI integration, and workforce relevance.
+
+---
+
+## 8.4 Brand Personality
+
+The Academy brand should consistently communicate:
+
+### Professionalism
+
+---
+
+### Accessibility
+
+---
+
+### Innovation
+
+---
+
+### Practicality
+
+---
+
+### Trustworthiness
+
+---
+
+### Growth
+
+---
+
+These attributes should appear across all communications and marketing materials.
+
+---
+
+## 8.5 Core Marketing Message
+
+Primary message:
+
+"Practical Technology Education for the AI Era."
+
+Supporting themes:
+
+- Learn by doing.
+- Build real skills.
+- Create real opportunities.
+- Prepare for the future.
+- Develop technology confidence.
+
+---
+
+## 8.6 Primary Target Markets
+
+### The Bahamas
+
+Primary operational market.
+
+---
+
+### Trinidad & Tobago
+
+Secondary operational market.
+
+---
+
+### Wider Caribbean
+
+Future expansion market.
+
+---
+
+Marketing activities should prioritize these regions in sequence.
+
+---
+
+## 8.7 Primary Audience Segments
+
+### Secondary School Students
+
+Preparing for future careers.
+
+---
+
+### University Students
+
+Seeking practical skills.
+
+---
+
+### Working Professionals
+
+Seeking career advancement.
+
+---
+
+### Career Changers
+
+Seeking new opportunities.
+
+---
+
+### Entrepreneurs
+
+Seeking technology and AI capabilities.
+
+---
+
+### Organizations
+
+Seeking workforce development solutions.
+
+---
+
+## 8.8 Student Acquisition Channels
+
+The Academy should develop multiple acquisition channels.
+
+### Social Media
+
+---
+
+### Website
+
+---
+
+### WhatsApp
+
+---
+
+### Referrals
+
+---
+
+### School Partnerships
+
+---
+
+### Community Engagement
+
+---
+
+### Corporate Relationships
+
+---
+
+Diversification reduces dependency on any single channel.
+
+---
+
+## 8.9 Referral Strategy
+
+Student referrals should become a significant growth driver.
+
+Potential incentives may include:
+
+### Referral Discounts
+
+---
+
+### Special Promotions
+
+---
+
+### Alumni Benefits
+
+---
+
+Satisfied students become the Academy's strongest marketing asset.
+
+---
+
+## 8.10 Website Conversion Strategy
+
+The Academy website should focus on:
+
+### Clear Program Information
+
+---
+
+### Clear Pricing
+
+---
+
+### Clear Benefits
+
+---
+
+### Clear Calls-To-Action
+
+---
+
+### Mobile-Friendly Registration
+
+---
+
+The website's primary purpose is conversion.
+
+---
+
+## 8.11 Social Media Strategy
+
+Content categories may include:
+
+### Student Success Stories
+
+---
+
+### Technology Insights
+
+---
+
+### AI Awareness
+
+---
+
+### Program Highlights
+
+---
+
+### Career Opportunities
+
+---
+
+### Educational Content
+
+---
+
+Content should provide value while promoting Academy offerings.
+
+---
+
+## 8.12 Community Engagement Strategy
+
+The Academy should actively participate in:
+
+### School Events
+
+---
+
+### Technology Events
+
+---
+
+### Career Fairs
+
+---
+
+### Community Programs
+
+---
+
+### Youth Development Activities
+
+---
+
+These activities strengthen visibility and trust.
+
+---
+
+## 8.13 Corporate Marketing Strategy
+
+Corporate marketing should focus on:
+
+### Workforce Development
+
+---
+
+### AI Readiness
+
+---
+
+### Digital Transformation
+
+---
+
+### Professional Upskilling
+
+---
+
+### Organizational Capability Building
+
+---
+
+This supports future corporate training growth.
+
+---
+
+## 8.14 Marketing Funnel
+
+The Academy's marketing funnel should follow:
+
+Awareness
+
+↓
+
+Interest
+
+↓
+
+Inquiry
+
+↓
+
+Registration
+
+↓
+
+Enrollment
+
+↓
+
+Completion
+
+↓
+
+Referral
+
+↓
+
+Advocacy
+
+---
+
+Every stage should be measured and improved over time.
+
+---
+
+## 8.15 Marketing Metrics
+
+The Academy should monitor:
+
+### Website Traffic
+
+---
+
+### Inquiries
+
+---
+
+### Registrations
+
+---
+
+### Enrollments
+
+---
+
+### Conversion Rates
+
+---
+
+### Student Referrals
+
+---
+
+### Cost Per Acquisition
+
+---
+
+### Student Lifetime Value
+
+---
+
+These metrics support informed decision-making.
+
+---
+
+## 8.16 Brand Growth Objectives
+
+The Academy should aim to become:
+
+### Recognized
+
+---
+
+### Trusted
+
+---
+
+### Respected
+
+---
+
+### Recommended
+
+---
+
+### Influential
+
+---
+
+within its target markets.
+
+---
+
+## 8.17 Long-Term Marketing Vision
+
+The Academy's long-term marketing objective is to establish AVC Tutors Tech Academy as one of the most recognized and trusted technology education brands in the Caribbean.
+
+Brand growth should be driven primarily through student success, educational quality, community impact, and workforce relevance.
+
+---
+
+## 8.18 Strategic Objective
+
+Marketing exists to connect learners and organizations with opportunities that improve their futures while supporting the Academy's mission, growth, and long-term sustainability.
+
+---
+
+## Section Approval
+
+Section Number: 08
+
+Section Name: Marketing, Branding & Student Acquisition Strategy
+
+Status: Approved
+
+Version: 1.0
+
+Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 09 - Operations, Delivery and Academic Administration
 

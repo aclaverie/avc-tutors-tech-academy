@@ -11,7 +11,7 @@ Track which sections have been fully migrated into GitHub.
 | 05 | Java Foundations for the AI Era | Migrated | 2026-06-09 | 2026-06-09 |
 | 06 | Student Journey, Enrollment and Customer Experience | Migrated | 2026-06-09 | 2026-06-09 |
 | 07 | Website, Digital Platform and Technology Architecture | Migrated | 2026-06-09 | 2026-06-09 |
-| 08 | Marketing, Branding and Student Acquisition | Pending Migration | 2026-06-09 | 2026-06-09 |
+| 08 | Marketing, Branding and Student Acquisition | Migrated | 2026-06-09 | 2026-06-09 |
 | 09 | Operations, Delivery and Academic Administration | Pending Migration | 2026-06-09 | 2026-06-09 |
 | 10 | Financial Model and Sustainability | Pending Migration | 2026-06-09 | 2026-06-09 |
 | 11 | Strategic Roadmap and Expansion | Pending Migration | 2026-06-09 | 2026-06-09 |
