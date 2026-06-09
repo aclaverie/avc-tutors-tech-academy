@@ -663,7 +663,390 @@ Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 03 - Academy Structure and Governance
 
-<!-- Paste Section 03 content here -->
+# Section 3 – Academy Structure & Governance
+
+## Status
+
+Approved
+
+---
+
+## 3.1 Purpose
+
+This section defines the organizational structure, governance model, leadership framework, and decision-making principles of AVC Tutors Tech Academy.
+
+The objective is to ensure that the Academy remains organized, scalable, accountable, and aligned with its mission as it grows.
+
+---
+
+## 3.2 Organizational Relationship
+
+AVC Tutors Tech Academy operates as the technology education and workforce development division of:
+
+**AVC Services and Management Limited**
+
+The Academy functions as a strategic business unit while benefiting from the broader support, infrastructure, and governance of the parent organization.
+
+---
+
+## 3.3 Governance Philosophy
+
+The Academy shall operate according to the following principles:
+
+### Mission Alignment
+
+All major decisions should support the Academy's mission and vision.
+
+---
+
+### Student-Centered Thinking
+
+Student success remains a primary consideration.
+
+---
+
+### Sustainability
+
+Growth decisions should support long-term viability.
+
+---
+
+### Accountability
+
+Responsibilities should be clearly defined.
+
+---
+
+### Continuous Improvement
+
+Programs, systems, and operations should evolve over time.
+
+---
+
+## 3.4 Organizational Structure
+
+### Parent Organization
+
+AVC Services and Management Limited
+
+↓
+
+### Education Division
+
+AVC Tutors Tech Academy
+
+↓
+
+### Functional Areas
+
+- Academic Programs
+- Student Services
+- Marketing & Recruitment
+- Technology & Platforms
+- Corporate Training
+- Partnerships & Business Development
+- Administration & Operations
+
+---
+
+## 3.5 Leadership Structure
+
+### Founder & Strategic Director
+
+Responsible for:
+
+- Strategic vision
+- Long-term planning
+- Growth initiatives
+- Major partnerships
+- Governance oversight
+
+---
+
+### Academic Leadership
+
+Responsible for:
+
+- Curriculum quality
+- Program development
+- Instructor standards
+- Learning outcomes
+
+---
+
+### Operations Leadership
+
+Responsible for:
+
+- Enrollment processes
+- Student administration
+- Operational efficiency
+- Service delivery
+
+---
+
+### Business Development Leadership
+
+Responsible for:
+
+- Corporate training
+- Partnerships
+- Market expansion
+- Revenue growth
+
+---
+
+As the Academy grows, these responsibilities may be assigned to dedicated individuals or teams.
+
+---
+
+## 3.6 Functional Areas
+
+### Academic Programs
+
+Design and delivery of educational offerings.
+
+---
+
+### Student Services
+
+Support throughout the student lifecycle.
+
+---
+
+### Marketing & Recruitment
+
+Student acquisition and brand development.
+
+---
+
+### Technology & Platforms
+
+Student systems, learning platforms, and digital infrastructure.
+
+---
+
+### Corporate Training
+
+Workforce development and organizational services.
+
+---
+
+### Partnerships & Business Development
+
+External relationships and strategic opportunities.
+
+---
+
+### Administration & Operations
+
+Day-to-day organizational support.
+
+---
+
+## 3.7 Decision-Making Framework
+
+Decisions should consider:
+
+### Student Impact
+
+---
+
+### Strategic Alignment
+
+---
+
+### Financial Sustainability
+
+---
+
+### Operational Feasibility
+
+---
+
+### Long-Term Value
+
+---
+
+Major initiatives should be evaluated against these criteria before approval.
+
+---
+
+## 3.8 Organizational Growth Model
+
+### Phase 1
+
+Founder-led operations.
+
+---
+
+### Phase 2
+
+Addition of administrative support.
+
+---
+
+### Phase 3
+
+Addition of instructors and program coordinators.
+
+---
+
+### Phase 4
+
+Functional leadership structure.
+
+---
+
+### Phase 5
+
+Regional management capability.
+
+---
+
+The structure should evolve based on organizational maturity.
+
+---
+
+## 3.9 Governance Responsibilities
+
+The Academy should ensure:
+
+### Strategic Planning
+
+Maintaining long-term direction.
+
+---
+
+### Program Oversight
+
+Ensuring quality and relevance.
+
+---
+
+### Financial Oversight
+
+Supporting sustainability.
+
+---
+
+### Technology Oversight
+
+Supporting operational effectiveness.
+
+---
+
+### Partnership Oversight
+
+Supporting growth and opportunity creation.
+
+---
+
+## 3.10 Accountability Framework
+
+Each functional area should maintain:
+
+### Clear Responsibilities
+
+---
+
+### Defined Objectives
+
+---
+
+### Performance Measures
+
+---
+
+### Reporting Expectations
+
+---
+
+This promotes transparency and effective management.
+
+---
+
+## 3.11 Organizational Culture
+
+The Academy should cultivate a culture that values:
+
+### Excellence
+
+---
+
+### Innovation
+
+---
+
+### Integrity
+
+---
+
+### Service
+
+---
+
+### Collaboration
+
+---
+
+### Lifelong Learning
+
+---
+
+Culture should reinforce the Academy's mission and values.
+
+---
+
+## 3.12 Governance Review Process
+
+The governance structure should be reviewed periodically to ensure it remains:
+
+### Effective
+
+---
+
+### Scalable
+
+---
+
+### Sustainable
+
+---
+
+### Aligned with Strategic Objectives
+
+---
+
+Adjustments should be made as organizational needs evolve.
+
+---
+
+## 3.13 Long-Term Governance Vision
+
+As AVC Tutors Tech Academy expands, governance should evolve from founder-led management toward a mature institutional model capable of supporting:
+
+- Multiple programs
+- Multiple instructors
+- Corporate training operations
+- Regional expansion
+- Strategic partnerships
+
+while maintaining consistency, quality, and accountability.
+
+---
+
+## Section Approval
+
+Section Number: 03
+
+Section Name: Academy Structure & Governance
+
+Status: Approved
+
+Version: 1.0
+
+Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 04 - Program Portfolio and Learning Pathways
 

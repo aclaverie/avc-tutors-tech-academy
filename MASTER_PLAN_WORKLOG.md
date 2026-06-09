@@ -6,7 +6,7 @@ Track which sections have been fully migrated into GitHub.
 |---|---|---|---|---|
 | 01 | Executive Vision and Mission | Migrated | 2026-06-09 | 2026-06-09 |
 | 02 | Business Model and Revenue Strategy | Migrated | 2026-06-09 | 2026-06-09 |
-| 03 | Academy Structure and Governance | Pending Migration | 2026-06-09 | 2026-06-09 |
+| 03 | Academy Structure and Governance | Migrated | 2026-06-09 | 2026-06-09 |
 | 04 | Program Portfolio and Learning Pathways | Pending Migration | 2026-06-09 | 2026-06-09 |
 | 05 | Java Foundations for the AI Era | Pending Migration | 2026-06-09 | 2026-06-09 |
 | 06 | Student Journey, Enrollment and Customer Experience | Pending Migration | 2026-06-09 | 2026-06-09 |
