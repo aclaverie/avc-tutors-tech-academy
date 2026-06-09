@@ -3933,7 +3933,550 @@ Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 10 - Financial Model and Sustainability
 
-<!-- Paste Section 10 content here -->
+# Section 10 – Financial Model, Revenue Projections & Sustainability Strategy
+
+## Status
+
+Approved
+
+---
+
+## 10.1 Purpose
+
+The purpose of this section is to define how AVC Tutors Tech Academy achieves financial sustainability while maintaining affordable access to high-quality technology education.
+
+The Academy must balance:
+
+- Educational impact
+- Student affordability
+- Business sustainability
+- Growth investment
+- Long-term scalability
+
+The objective is to build a profitable and resilient education business capable of supporting expansion throughout The Bahamas, Trinidad & Tobago, and the wider Caribbean.
+
+---
+
+## 10.2 Financial Philosophy
+
+The Academy operates on five financial principles:
+
+### Accessibility
+
+Programs should remain reasonably affordable.
+
+---
+
+### Sustainability
+
+Every program should contribute positively to the Academy's long-term viability.
+
+---
+
+### Reinvestment
+
+Profits should be reinvested into curriculum development, technology, marketing, and growth initiatives.
+
+---
+
+### Diversification
+
+Revenue should come from multiple sources rather than a single course.
+
+---
+
+### Scalability
+
+Financial models should support expansion without requiring proportional increases in cost.
+
+---
+
+## 10.3 Revenue Categories
+
+The Academy's future revenue model consists of six primary categories.
+
+### Category 1 – Student Tuition
+
+Primary revenue source during initial growth phase.
+
+Examples:
+
+- Java Foundations for the AI Era
+- Python Foundations for AI
+- AI Productivity Programs
+
+---
+
+### Category 2 – Advanced Program Progression
+
+Students advancing through Levels 2–4.
+
+Creates recurring educational revenue.
+
+---
+
+### Category 3 – Corporate Training
+
+Private workforce development programs.
+
+Potential high-margin revenue stream.
+
+---
+
+### Category 4 – School Partnerships
+
+Technology programs delivered through educational institutions.
+
+---
+
+### Category 5 – Online Learning Subscriptions
+
+Future recurring subscription revenue.
+
+---
+
+### Category 6 – Consulting & Innovation Projects
+
+Technology solutions, automation initiatives, and special projects linked to Academy expertise.
+
+---
+
+## 10.4 Current Flagship Program Pricing
+
+### Java Foundations for the AI Era
+
+Approved pricing structure:
+
+#### Standard Tuition
+
+$349 USD
+
+---
+
+#### Early Bird
+
+$299 USD
+
+---
+
+#### Installment Option
+
+Deposit plus scheduled balance payment.
+
+---
+
+#### Promotional Offers
+
+Bring-a-Friend and cohort-based incentives.
+
+---
+
+## 10.5 Cohort Revenue Scenarios
+
+### Conservative Scenario
+
+15 Students
+
+Average Tuition:
+
+$325 USD
+
+Revenue:
+
+$4,875 USD
+
+---
+
+### Expected Scenario
+
+25 Students
+
+Average Tuition:
+
+$325 USD
+
+Revenue:
+
+$8,125 USD
+
+---
+
+### Growth Scenario
+
+40 Students
+
+Average Tuition:
+
+$325 USD
+
+Revenue:
+
+$13,000 USD
+
+---
+
+### Scale Scenario
+
+60 Students
+
+Average Tuition:
+
+$325 USD
+
+Revenue:
+
+$19,500 USD
+
+---
+
+These figures represent tuition revenue only and exclude future revenue streams.
+
+---
+
+## 10.6 Annual Revenue Scenarios
+
+Assuming four major cohorts annually.
+
+### Conservative
+
+4 cohorts × $4,875
+
+Annual Revenue:
+
+$19,500 USD
+
+---
+
+### Expected
+
+4 cohorts × $8,125
+
+Annual Revenue:
+
+$32,500 USD
+
+---
+
+### Growth
+
+4 cohorts × $13,000
+
+Annual Revenue:
+
+$52,000 USD
+
+---
+
+### Scale
+
+4 cohorts × $19,500
+
+Annual Revenue:
+
+$78,000 USD
+
+---
+
+Additional programs and services would increase these figures significantly.
+
+---
+
+## 10.7 Cost Categories
+
+The Academy's major cost areas include:
+
+### Technology Infrastructure
+
+- Hosting
+- Domains
+- Software subscriptions
+- Learning tools
+
+---
+
+### Marketing
+
+- Advertising
+- Promotional campaigns
+- Branding materials
+
+---
+
+### Instruction
+
+- Instructor compensation
+- Associate instructor fees
+
+---
+
+### Administration
+
+- Student management
+- Communication
+- Operational support
+
+---
+
+### Program Development
+
+- Curriculum creation
+- Content development
+- Learning resources
+
+---
+
+## 10.8 Financial Priorities (2026–2028)
+
+Revenue generated should primarily support:
+
+### Priority 1
+
+Academy growth and sustainability.
+
+---
+
+### Priority 2
+
+Platform development.
+
+---
+
+### Priority 3
+
+Marketing and student acquisition.
+
+---
+
+### Priority 4
+
+Curriculum expansion.
+
+---
+
+### Priority 5
+
+Strategic reserves.
+
+---
+
+## 10.9 Long-Term Revenue Mix Target
+
+Target revenue mix by maturity:
+
+| Revenue Source | Target Contribution |
+|---------------|-------------------|
+| Student Tuition | 40% |
+| Corporate Training | 25% |
+| Online Learning | 15% |
+| School Partnerships | 10% |
+| Consulting & Projects | 10% |
+
+---
+
+## 10.10 Corporate Training Opportunity
+
+Corporate training represents one of the Academy's most significant future growth opportunities.
+
+Potential clients include:
+
+- Private companies
+- Government agencies
+- Educational institutions
+- Non-profit organizations
+
+Training areas:
+
+- AI Literacy
+- Automation
+- Digital Transformation
+- Software Development
+- Data & Analytics
+
+---
+
+## 10.11 School Partnership Opportunity
+
+Schools represent a recurring and scalable market.
+
+Potential services include:
+
+- Coding clubs
+- AI clubs
+- Teacher development
+- Holiday programs
+- Curriculum support
+
+This creates predictable annual revenue opportunities.
+
+---
+
+## 10.12 Online Learning Opportunity
+
+Future platform capabilities may include:
+
+### Subscription Access
+
+Monthly or annual plans.
+
+---
+
+### Premium Content
+
+Advanced learning resources.
+
+---
+
+### Certification Programs
+
+Assessment-based credentials.
+
+---
+
+### Community Memberships
+
+Student and alumni engagement.
+
+---
+
+## 10.13 Financial Risk Factors
+
+Potential risks include:
+
+### Low Enrollment
+
+Mitigation:
+
+Marketing diversification and partnerships.
+
+---
+
+### Instructor Dependence
+
+Mitigation:
+
+Multiple instructors and scalable content.
+
+---
+
+### Technology Costs
+
+Mitigation:
+
+Careful platform management.
+
+---
+
+### Economic Conditions
+
+Mitigation:
+
+Flexible pricing and multiple revenue streams.
+
+---
+
+## 10.14 Financial Sustainability Indicators
+
+The Academy should monitor:
+
+### Revenue Growth
+
+---
+
+### Student Acquisition Cost
+
+---
+
+### Student Lifetime Value
+
+---
+
+### Enrollment Conversion Rate
+
+---
+
+### Corporate Revenue
+
+---
+
+### Retention & Progression Rates
+
+---
+
+### Profitability by Program
+
+---
+
+## 10.15 Strategic Growth Targets (2026–2030)
+
+### Phase 1
+
+Establish sustainable Java program operations.
+
+---
+
+### Phase 2
+
+Launch additional programs.
+
+---
+
+### Phase 3
+
+Expand into multiple Caribbean markets.
+
+---
+
+### Phase 4
+
+Develop corporate training division.
+
+---
+
+### Phase 5
+
+Launch online learning platform.
+
+---
+
+### Phase 6
+
+Become a regional technology education ecosystem.
+
+---
+
+## 10.16 Relationship to Founder Goals
+
+The Academy is intended to become:
+
+- A sustainable education business.
+- A long-term revenue-generating asset.
+- A platform for workforce development.
+- A vehicle for regional impact.
+- A contributor toward broader financial and entrepreneurial objectives.
+
+Success is measured not only by revenue but also by the number of lives transformed through technology education.
+
+---
+
+## 10.17 Long-Term Financial Vision
+
+By 2030, AVC Tutors Tech Academy should operate as a diversified educational enterprise with multiple revenue streams, recurring income sources, scalable digital assets, and strong regional brand recognition.
+
+The Academy should be financially self-sustaining, growth-oriented, and capable of continuous investment into new programs, technology platforms, and strategic opportunities.
+
+---
+
+## Section Approval
+
+Section Number: 10
+
+Section Name: Financial Model, Revenue Projections & Sustainability Strategy
+
+Status: Approved
+
+Version: 1.0
+
+Part of: AVC Tutors Tech Academy – Master Plan v1.0
 
 ## 11 - Strategic Roadmap and Expansion
 
